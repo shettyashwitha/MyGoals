@@ -1,0 +1,14 @@
+{
+  "resourceName": "somethingrnadom",
+  "policyUUID": "e25a1300",
+  "bucketName": "mygoalsf23d34fd04a44c92a5708853bd3ed52f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
